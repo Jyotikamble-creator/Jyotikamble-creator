@@ -1,10 +1,15 @@
 - 👋 Hi, I’m Jyoti Kamble
 
-
 - 👀 I’m interested in Website Development.
 
+- 🌱 I’m currently learning **React.js,Next.js.**
 
-- 🌱 I’m currently learning Jetpack Compose,KMP.
+- 😄 Pronouns: She/Her
+
+- 🔭 I’m currently working on **WorkFlowManager**
 
 
-- 😄 Pronouns: He/him
+
+
+
+
