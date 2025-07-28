@@ -23,6 +23,15 @@
 - 🎼[Music Genera](https://github.com/Jyotikamble-creator/Mini_Project_College) - music genera detection using ML modal.
 
 ---
+
+# 🏆 Achievements
+
+- 🥇 **[1st Place – Tech Showcase ](https://drive.google.com/file/d/1tVfbYkwx79LCfoAFqTbpCQtlSJy2vT2T/view)
+- 🥈 **[2nd Place – Project Exhibition (IEEE - INGENIOUS)](https://drive.google.com/file/d/1xXr7KZprYD7Ls-YtzG_v6OUZr6uCNxsH/view)
+- 🥉 **[3rd Place – 24-Hour Hackathon (TCS Git)](https://drive.google.com/file/d/1Ljtpnbr2p5fDsTgFCzh1ZC1XNK6oYmJK/view)
+
+---
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
