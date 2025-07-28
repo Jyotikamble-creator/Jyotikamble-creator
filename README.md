@@ -36,10 +36,45 @@
 
 <p align="left">
 
-  <a href="https://www.linkedin.com/in/jyoti-kamble-564870366/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jyoti-kamble-564870366/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/jyoti-kamble-564870366/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
+  </a>
+
+
+
+
+   <a href="mailto:akshaysarapure.gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 
 <!-- <a href="https://instagram.com/ak__shay_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ak__shay_s" height="30" width="40" /></a>
 </p> -->
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <a href="https://instagram.com/ak__shay_s" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:akshaysarapure.gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Codexyze" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="GitHub"/>
+  </a>
+
+</p>
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
