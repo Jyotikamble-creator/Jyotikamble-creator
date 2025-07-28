@@ -14,6 +14,9 @@
 - 🧠 Featured Projects:
   - [WorkflowManager](https://github.com/Jyotikamble-creator/WorkFlowManager)- A full-stack task and workflow management system with role-based access for Admins, Managers, and Employees.
 
+  - [Next_project](https://github.com/Jyotikamble-creator/Nextjs_Project)- A full-stack web using imagekit.
+
+  
 
 
 
