@@ -1,9 +1,33 @@
 <h1 align="center">Hi 👋, I'm Jyoti Kamble </h1>
+
 <h3 align="center">⚡ Passionate Web Developer | React & TypeScript Enthusiast | Clean Code Advocate</h3>
----
+
 
 - 🔭 Currently working on: **[Nextjs_project – using imagekit](https://github.com/Jyotikamble-creator/Nextjs_Project)**  
+
 - 🌱 Exploring: **React.js | Next.js | Typescript |Component-based and  Modular Architecture**
+
+<!-- - 💡 Constantly sharpening my skills through my [Android Practice Hub](https://github.com/Codexyze/practice_Set_Code) — a personal playground of concepts, mini-projects, and experiments.   -->
+
+- 💌 Reach me at:**jyotikamble5235@gmail.com**
+
+- 🧠 Featured Projects:
+  - [WorkflowManager](https://github.com/Jyotikamble-creator/WorkFlowManager)- A full-stack task and workflow management system with role-based access for Admins, Managers, and Employees.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 - 👀 I’m interested in Website Development.
 
