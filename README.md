@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jyoti Kamble </h1>
 <h3 align="center">⚡ Passionate Web Developer | React & TypeScript Enthusiast | Clean Code Advocate</h3>
+
 --- 
 
 - 🔭 Currently working on: **[Nextjs_project – using imagekit](https://github.com/Jyotikamble-creator/Nextjs_Project)**  
@@ -14,31 +15,14 @@
   - [Quiz-App](https://github.com/Jyotikamble-creator/quiz-app) - Featuring category and difficulty selection, real-time timer, progress tracking, and dark/light theme
   - [Harry potter](https://github.com/Jyotikamble-creator/HARRY-POTTER--Website) -Characters with fuzzy search, autocomplete, visual character details, and search history.
 
-
-
-
-
-
-
-
-
-
-
-
-
-- 👀 I’m interested in Website Development.
-
-- 🌱 I’m currently learning **React.js,Next.js.**
-
-- 😄 Pronouns: She/Her
-
-- 🔭 I’m currently working on **WorkFlowManager**
-
-
-- ⚡Some of my learning projects :**WorkFlowManager,HARRY-POTTER--Website ,Meme-App,DeepFake-Detection ect...** 
-
 ---
 
+## 👥 Group Contribution Projects
+
+- 🛡️ [DeepShield](https://github.com/Jyotikamble-creator/DeepFake-Detection) - Deepfake detection client-server ML project.
+-🎼[Music Genera](https://github.com/Jyotikamble-creator/Mini_Project_College) - music genera detection using ML modal.
+
+---
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
