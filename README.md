@@ -24,7 +24,7 @@
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
 - 🥇 **[1st Place – Tech Showcase ](https://drive.google.com/file/d/1tVfbYkwx79LCfoAFqTbpCQtlSJy2vT2T/view)**
 - 🥈 **[2nd Place – Project Exhibition (IEEE - INGENIOUS)](https://drive.google.com/file/d/1xXr7KZprYD7Ls-YtzG_v6OUZr6uCNxsH/view)**
@@ -59,33 +59,35 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-[![Javascript]()]
-  
-[![Javascript](https://img.shields.io/badge/javascript-FFCA28?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Typscript](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)](https://www.typescriptlang.org/docs/)
-[![React.js](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://vite.dev/)
-[![Next.js](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://nextjs.org/)
-[![Expree.js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://expressjs.com/)
-[![Node.js](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://nodejs.org/en)
-[![MongoDB](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)](https://www.mongodb.com/atlas)
-[![HTML](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![TailwindCSS](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://tailwindcss.com/)
-[![Bootstrap]()](https://getbootstrap.com/)
-[![JWT auth]()](https://www.jwt.io/)
-[![Bcrypt]()](https://www.npmjs.com/package/bcrypt)
-[![CORS]()](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/CORS)
-[![Multer]()](https://www.npmjs.com/package/multer)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
+[![Javascript](https://img.shields.io/badge/Javascript-FFCA28?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Typscript](https://img.shields.io/badge/Typescript-4285F4?style=for-the-badge&logo=typescript&logoColor=black)](https://www.typescriptlang.org/docs/)
+[![React.js](https://img.shields.io/badge/Reactjs-3DDC84?style=for-the-badge&logo=reactjs&logoColor=black)](https://vite.dev/)
+[![Next.js](https://img.shields.io/badge/Nextjs-FFCA28?style=for-the-badge&logo=nextjs&logoColor=black)](https://nextjs.org/)
+[![Express.js](https://img.shields.io/badge/Expressjs-ED8B00?style=for-the-badge&logo=expressjs&logoColor=black)](https://expressjs.com/)
+[![Node.js](https://img.shields.io/badge/Nodejs-003B57?style=for-the-badge&logo=nodejs&logoColor=black)](https://nodejs.org/en)
+[![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=black)](https://www.mongodb.com/atlas)
+[![HTML](https://img.shields.io/badge/HTML-3776AB?style=for-the-badge&logo=html&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-00599C?style=for-the-badge&logo=css&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![TailwindCSS](https://img.shields.io/badge/Tailwindcss-F05032?style=for-the-badge&logo=tailwindcss&logoColor=black)](https://tailwindcss.com/)
+[![Bootstrap]((https://img.shields.io/badge/Bootstrap-FFCA28?style=for-the-badge&logo=bootstrsp&logoColor=black))](https://getbootstrap.com/)
+[![JWT auth]((https://img.shields.io/badge/JWTauth-4285F4?style=for-the-badge&logo=jwtauth&logoColor=black))](https://www.jwt.io/)
+[![Bcrypt]((https://img.shields.io/badge/Bcryption-3DDC84?style=for-the-badge&logo=brcypt&logoColor=black))](https://www.npmjs.com/package/bcrypt)
+[![CORS]((https://img.shields.io/badge/CORS-3776AB?style=for-the-badge&logo=cors&logoColor=black))](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/CORS)
+[![Multer]((https://img.shields.io/badge/Multer-ED8B00?style=for-the-badge&logo=multer&logoColor=black))](https://www.npmjs.com/package/multer)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=black)](https://git-scm.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=black)](https://www.postgresql.org/)
 
 </p>
 
 ---
  # 🛠️  Testing Tools
- [![Jest](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)](jestjs.io)
-[![React Testing Library](https://img.shields.io/badge/Mockito-9B59B6?style=for-the-badge&logo=mockito&logoColor=white)](https://testing-library.com/docs/react-testing-library/intro/)
-[![GitBhub](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Postman](https://img.shields.io/badge/Android_Testing-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.postman.com/)
-[![MongoDB Compass]()](https://www.mongodb.com/atlas)
+ [![Jest](https://img.shields.io/badge/Jest-25A162?style=for-the-badge&logo=jest5&logoColor=black)](jestjs.io)
+[![React Testing Library](https://img.shields.io/badge/React_Testing_Library-9B59B6?style=for-the-badge&logo=react&logoColor=black)](https://testing-library.com/docs/react-testing-library/intro/)
+[![GitBhub](https://img.shields.io/badge/GitHub-F05032?style=for-the-badge&logo=github&logoColor=black)](https://git-scm.com/)
+[![Postman](https://img.shields.io/badge/PostMan-3DDC84?style=for-the-badge&logo=postman&logoColor=black)](https://www.postman.com/)
+[![MongoDB Compass]((https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=black))](https://www.mongodb.com/atlas)
 
+---
+
+<h3 align="center">👨‍💻 Web developer passionate about clean code, component reusability, and crafting seamless user experiences</h3>
