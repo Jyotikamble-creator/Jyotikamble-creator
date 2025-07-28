@@ -76,8 +76,16 @@
 [![Bcrypt]()](https://www.npmjs.com/package/bcrypt)
 [![CORS]()](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/CORS)
 [![Multer]()](https://www.npmjs.com/package/multer)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 </p>
 
-     
+---
+ # 🛠️  Testing Tools
+ [![Jest](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)](jestjs.io)
+[![React Testing Library](https://img.shields.io/badge/Mockito-9B59B6?style=for-the-badge&logo=mockito&logoColor=white)](https://testing-library.com/docs/react-testing-library/intro/)
+[![GitBhub](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Postman](https://img.shields.io/badge/Android_Testing-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.postman.com/)
+[![MongoDB Compass]()](https://www.mongodb.com/atlas)
+
