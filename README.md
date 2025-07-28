@@ -20,7 +20,7 @@
 ## 👥 Group Contribution Projects
 
 - 🛡️ [DeepShield](https://github.com/Jyotikamble-creator/DeepFake-Detection) - Deepfake detection client-server ML project.
--🎼[Music Genera](https://github.com/Jyotikamble-creator/Mini_Project_College) - music genera detection using ML modal.
+- 🎼[Music Genera](https://github.com/Jyotikamble-creator/Mini_Project_College) - music genera detection using ML modal.
 
 ---
 <h3 align="left">Connect with me:</h3>
