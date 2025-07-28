@@ -62,11 +62,11 @@
 
 [![Javascript](https://img.shields.io/badge/Javascript-FFCA28?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Typscript](https://img.shields.io/badge/Typescript-4285F4?style=for-the-badge&logo=typescript&logoColor=black)](https://www.typescriptlang.org/docs/)
-[![React.js](https://img.shields.io/badge/Reactjs-3DDC84?style=for-the-badge&logo=reactjs&logoColor=black)](https://vite.dev/)
-[![Next.js](https://img.shields.io/badge/Nextjs-FFCA28?style=for-the-badge&logo=nextjs&logoColor=black)](https://nextjs.org/)
-[![Express.js](https://img.shields.io/badge/Expressjs-ED8B00?style=for-the-badge&logo=expressjs&logoColor=black)](https://expressjs.com/)
-[![Node.js](https://img.shields.io/badge/Nodejs-003B57?style=for-the-badge&logo=nodejs&logoColor=black)](https://nodejs.org/en)
-[![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=black)](https://www.mongodb.com/atlas)
+[![React.js](https://img.shields.io/badge/React.js-3DDC84?style=for-the-badge&logo=reactjs&logoColor=black)](https://vite.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-FFCA28?style=for-the-badge&logo=nextjs&logoColor=black)](https://nextjs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-ED8B00?style=for-the-badge&logo=expressjs&logoColor=black)](https://expressjs.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-003B57?style=for-the-badge&logo=nodejs&logoColor=black)](https://nodejs.org/en)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4169E1?style=for-the-badge&logo=mongodb&logoColor=black)](https://www.mongodb.com/atlas)
 [![HTML](https://img.shields.io/badge/HTML-3776AB?style=for-the-badge&logo=html&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-00599C?style=for-the-badge&logo=css&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![TailwindCSS](https://img.shields.io/badge/Tailwindcss-F05032?style=for-the-badge&logo=tailwindcss&logoColor=black)](https://tailwindcss.com/)
@@ -86,7 +86,7 @@
 [![React Testing Library](https://img.shields.io/badge/React_Testing_Library-9B59B6?style=for-the-badge&logo=react&logoColor=black)](https://testing-library.com/docs/react-testing-library/intro/)
 [![GitBhub](https://img.shields.io/badge/GitHub-F05032?style=for-the-badge&logo=github&logoColor=black)](https://git-scm.com/)
 [![Postman](https://img.shields.io/badge/PostMan-3DDC84?style=for-the-badge&logo=postman&logoColor=black)](https://www.postman.com/)
-[![MongoDB Compass]((https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=black))](https://www.mongodb.com/atlas)
+[![MongoDB Compass](https://img.shields.io/badge/MongoDB-4169E1?style=for-the-badge&logo=mongodb&logoColor=black)](https://www.mongodb.com/atlas)
 
 ---
 
