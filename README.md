@@ -48,7 +48,7 @@
     <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="GitHub"/>
   </a>
 
-<a href="https://instagram.com/ak__shay_s" target="_blank">
+<a href="https://www.instagram.com/jk_jyo_ti/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 <!-- <a href="https://instagram.com/ak__shay_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ak__shay_s" height="30" width="40" /></a>
