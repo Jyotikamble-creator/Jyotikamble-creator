@@ -9,13 +9,14 @@
 
 <!-- - 💡 Constantly sharpening my skills through my [Android Practice Hub](https://github.com/Codexyze/practice_Set_Code) — a personal playground of concepts, mini-projects, and experiments.   -->
 
-- 💌 Reach me at:**jyotikamble5235@gmail.com**
+- 💌 Reach me at : **jyotikamble5235@gmail.com**
 
 - 🧠 Featured Projects:
-  - [WorkflowManager](https://github.com/Jyotikamble-creator/WorkFlowManager)- A full-stack task and workflow management system with role-based access for Admins, Managers, and Employees.
+  - [WorkflowManager](https://github.com/Jyotikamble-creator/WorkFlowManager) - A full-stack task and workflow management system with role-based access for Admins, Managers, and Employees.
 
-  - [Next_project](https://github.com/Jyotikamble-creator/Nextjs_Project)- A full-stack web using imagekit.
+  - [Next_project](https://github.com/Jyotikamble-creator/Nextjs_Project) - A full-stack web using imagekit.
 
+  - [DeepShield](https://github.com/Jyotikamble-creator/DeepFake-Detection) - Deepfake detection client-server ML project.
   
 
 
