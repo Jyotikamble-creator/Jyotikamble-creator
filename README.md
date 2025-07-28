@@ -48,38 +48,35 @@
     <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="GitHub"/>
   </a>
 
-<a href="https://www.instagram.com/jk_jyo_ti/" target="_blank">
+ <a href="https://www.instagram.com/jk_jyo_ti/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-<!-- <a href="https://instagram.com/ak__shay_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ak__shay_s" height="30" width="40" /></a>
-</p> -->
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
- 
-  
 
 </p>
 
-
-
+---
 
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-
+[![Javascript]()]
   
+[![Javascript](https://img.shields.io/badge/javascript-FFCA28?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Typscript](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)](https://www.typescriptlang.org/docs/)
+[![React.js](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://vite.dev/)
+[![Next.js](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://nextjs.org/)
+[![Expree.js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://expressjs.com/)
+[![Node.js](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://nodejs.org/en)
+[![MongoDB](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)](https://www.mongodb.com/atlas)
+[![HTML](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![TailwindCSS](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://tailwindcss.com/)
+[![Bootstrap]()](https://getbootstrap.com/)
+[![JWT auth]()](https://www.jwt.io/)
+[![Bcrypt]()](https://www.npmjs.com/package/bcrypt)
+[![CORS]()](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/CORS)
+[![Multer]()](https://www.npmjs.com/package/multer)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 </p>
 
