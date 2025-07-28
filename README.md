@@ -20,7 +20,7 @@
 
   - [Meme App](https://github.com/Jyotikamble-creator/Meme-App) - Loads 50 mems from REDIT.
   - [Quiz-App](https://github.com/Jyotikamble-creator/quiz-app) - Featuring category and difficulty selection, real-time timer, progress tracking, and dark/light theme
-
+  - [Harry potter](https://github.com/Jyotikamble-creator/HARRY-POTTER--Website) - Harry Potter characters with fuzzy search, autocomplete, visual character details, and search history.
 
 
 
