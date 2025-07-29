@@ -86,9 +86,8 @@
  # 🛠️  Testing Tools
  [![Jest](https://img.shields.io/badge/Jest-25A162?style=for-the-badge&logo=jest5&logoColor=black)](jestjs.io)
 [![React Testing Library](https://img.shields.io/badge/React_Testing_Library-9B59B6?style=for-the-badge&logo=react&logoColor=black)](https://testing-library.com/docs/react-testing-library/intro/)
-[![GitBhub](https://img.shields.io/badge/GitHub-F05032?style=for-the-badge&logo=github&logoColor=black)](https://git-scm.com/)
 [![Postman](https://img.shields.io/badge/PostMan-3DDC84?style=for-the-badge&logo=postman&logoColor=black)](https://www.postman.com/)
-[![MongoDB Compass](https://img.shields.io/badge/MongoDB-4169E1?style=for-the-badge&logo=mongodb&logoColor=black)](https://www.mongodb.com/atlas)
+
 
 ---
 
