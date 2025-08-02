@@ -39,7 +39,7 @@
 <p align="left">
 
   <a href="https://www.linkedin.com/in/jyoti-kamble-564870366/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
    <a href="mailto:jyotikamble5235@gmail.com" target="_blank">
@@ -48,6 +48,10 @@
 
   <a href="https://github.com/Jyotikamble-creator" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="GitHub"/>
+  </a>
+
+  <a href="https://v0-portfolio-website-ecru-sigma.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-E4405F?style=flat&logo=portfolio&logoColor=white" alt="Portfolio"/>
   </a>
 
  <a href="https://www.instagram.com/jk_jyo_ti/" target="_blank">
