@@ -43,7 +43,7 @@
   </a>
 
    <a href="mailto:jyotikamble5235@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-F05032?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
   <a href="https://github.com/Jyotikamble-creator" target="_blank">
@@ -51,7 +51,7 @@
   </a>
 
   <a href="https://v0-portfolio-website-ecru-sigma.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-E4405F?style=flat&logo=portfolio&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat&logo=portfolio&logoColor=white" alt="Portfolio"/>
   </a>
 
  <a href="https://www.instagram.com/jk_jyo_ti/" target="_blank">
